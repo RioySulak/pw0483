@@ -1,0 +1,43 @@
+.header{
+	margin:0 auto;
+	width:900px;
+	height:120px;
+	background-color:#FF8C00; 
+}
+.header h1{
+	margin: 25px;
+	background: #ffc266;
+	font-family:Arial;
+	color:#cc7a00;
+	width: 300px;
+	float:right;
+	text-align: right;
+	padding: 25px;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+
+}
+
+.menu{
+	margin-top: 0px auto;
+	width: 100%;
+	height: 25px;
+	float: right;
+}
+
+.menu ul{
+	list-style: none;
+	margin: 20px;
+	text-align: right;
+}
+.menu ul li{
+	display: inline-block;
+	margin: 10px 0px;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: #cc7a00;
+	padding: 5px 10px;
+	font-family: arial;
+	letter-spacing: 2px;
+}
